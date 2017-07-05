@@ -1,0 +1,2 @@
+# ZeroMQ_Intercommunication
+ZeroMQで相互通信しただけ
